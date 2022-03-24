@@ -1,0 +1,22 @@
+.showPopover {
+  padding: 15px 0px 0px;
+  p {
+    font-size: 12px !important;
+    // line-height:0.5rem;
+    margin: 5px 0 0 0 !important;
+  }
+  h5 {
+    line-height: 1rem;
+  }
+  .fas {
+    padding-right: 5px;
+  }
+  .popoverfooter {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+}
+.Modal {
+  width: 200% !important;
+}

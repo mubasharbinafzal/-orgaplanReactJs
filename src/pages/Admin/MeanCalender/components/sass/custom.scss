@@ -1,0 +1,116 @@
+.showPopover {
+  padding: 15px 0px 0px;
+  p {
+    font-size: 12px !important;
+    // line-height:0.5rem;
+    margin: 5px 0 0 0 !important;
+  }
+  h5 {
+    line-height: 1rem;
+  }
+  .fas {
+    padding-right: 5px;
+  }
+  .popoverfooter {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+}
+
+.starttime .MuiFormControl-root,
+.endTime .MuiFormControl-root {
+  width: 100%;
+}
+.starttime .react-time-picker,
+.starttime .react-datetime-picker,
+.endTime .react-time-picker,
+.endTime .react-datetime-picker {
+  width: 100%;
+}
+.starttime label,
+.endTime label {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.54);
+}
+.starttime .react-time-picker__wrapper,
+.starttime .react-datetime-picker__wrapper,
+.endTime .react-time-picker__wrapper,
+.endTime .react-datetime-picker__wrapper {
+  border: none;
+  border-bottom: 1px solid gray !important;
+}
+.starttime .MuiFormLabel-root,
+.endTime .MuiFormLabel-root {
+  font-size: 16px;
+}
+.starttime .MuiInputBase-root,
+.endTime .MuiInputBase-root {
+  font-size: 16px;
+}
+.statusColor {
+  padding-top: 10px;
+}
+.statusColor label {
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 500;
+  font-size: 13px;
+}
+.statusColor select {
+  font-family: "FontAwesome", "sans-serif";
+}
+.statusColor .MuiFormGroup-root {
+  display: flex;
+  flex-wrap: unset;
+  flex-direction: initial;
+  width: max-content;
+}
+.statusColor .pending .MuiButtonBase-root,
+.statusColor .pending .MuiButtonBase-root:hover {
+  background-color: #ffff00;
+}
+.statusColor .notAvailble .MuiButtonBase-root,
+.statusColor .notAvailble .MuiButtonBase-root:hover {
+  background-color: #808080;
+}
+.statusColor .validate .MuiButtonBase-root,
+.statusColor .validate .MuiButtonBase-root:hover {
+  background-color: #008000;
+}
+.statusColor .availability .MuiButtonBase-root,
+.statusColor .availability .MuiButtonBase-root:hover {
+  background-color: blue;
+}
+.statusColor .MuiTypography-body1 {
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.statusColor .MuiRadio-colorPrimary.Mui-checked {
+  color: white;
+}
+.statusColor label {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.54);
+  padding-top: 10px;
+}
+.description label {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.54);
+  padding-top: 10px;
+}
+.Custom_weekdays {
+  margin-top: 0px;
+}
+.Custom_weekdays .PrivateSwitchBase-root-1 {
+  padding: 1px;
+}
+
+// shehzad css
+
+.close :hover {
+  color: red;
+}
+.Custom_weekdays .MuiButtonBase-root {
+  padding: 0px !important;
+}
+// ******

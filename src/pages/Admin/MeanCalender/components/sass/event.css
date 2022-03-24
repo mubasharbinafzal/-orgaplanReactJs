@@ -1,0 +1,69 @@
+.rbc-ellipsis, .rbc-event-label {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rbc-event {
+  border: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #fff;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+
+.rbc-slot-selecting .rbc-event {
+  cursor: inherit;
+  pointer-events: none;
+}
+
+.rbc-event.rbc-selected {
+  background-color: #e6e6e6;
+}
+
+.rbc-event:focus {
+  outline: 5px auto #3b99fc;
+}
+
+.rbc-event-label {
+  font-size: 80%;
+}
+
+.rbc-event-overlaps {
+  -webkit-box-shadow: -1px 1px 5px 0px rgba(51, 51, 51, 0.5);
+          box-shadow: -1px 1px 5px 0px rgba(51, 51, 51, 0.5);
+}
+
+.rbc-event-continues-prior {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.rbc-event-continues-after {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.rbc-event-continues-earlier {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.rbc-event-continues-later {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.makeStyles-content-12 {
+  padding-top: 0px;
+}
+/*# sourceMappingURL=event.css.map */

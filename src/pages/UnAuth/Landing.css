@@ -1,0 +1,160 @@
+.land-container {
+  overflow-x: hidden;
+  height: 100%;
+}
+.hero {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(#53440163, #53440163),
+    url("../../assets/images/land\ hero.png");
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+.hero-logo {
+  width: 80px;
+}
+
+.white-color {
+  color: white;
+}
+
+a {
+  color: white;
+}
+.hero img {
+  width: 1rerm;
+}
+.hero-btn {
+  margin-top: 5rem;
+  background-color: rgba(255, 255, 255, 0);
+  border: 2px solid white;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.hero-title h1 {
+  margin-top: 10rem;
+  font-size: 2.7rem;
+  line-height: 3rem;
+  margin-bottom: 1rem;
+}
+.hero-title p {
+  width: 100%;
+  font-size: 1.1rem;
+}
+
+/* Section 2 */
+
+.section-2 {
+  margin-top: 6rem;
+  /* margin-bottom: 6rem; */
+  text-align: center;
+  font-size: 0.8rem;
+}
+.section-2 p {
+  padding-top: 10px;
+}
+
+.section-2 h5 {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 500;
+}
+.section-2 h2 {
+  font-weight: 700;
+  margin-bottom: 2.5rem;
+  color: #656471;
+}
+.land-card {
+  color: #656471;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.land-card img {
+  width: 35%;
+}
+.land-card h5 {
+  margin-top: 10px;
+  font-weight: bold;
+}
+/* Section 3 */
+
+.section-3 {
+  background: url("../../assets/images/land\ building.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  text-align: left;
+  padding: 5rem;
+  color: #656471;
+}
+
+.section-3 img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.section-3 button,
+.section-4 button {
+  border: none;
+  background-color: #dbb208;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 10px;
+  padding: 0.5rem 1.8rem;
+  border-radius: 10px;
+}
+/* Section 4 */
+
+.section-4 {
+  padding-top: 5rem;
+}
+.section-4 h2 {
+  text-align: center;
+  color: #dbb208;
+}
+.section-4 img {
+  width: 100%;
+  padding: 2rem;
+}
+
+.section-4 input,
+textarea {
+  display: block;
+  width: 70%;
+  /* margin: 1rem; */
+  height: 3rem;
+  padding: 1rem;
+  outline: none;
+}
+.section-4 {
+  text-align: left;
+}
+.section-4 button {
+  margin-left: 1rem;
+}
+
+textarea {
+  height: 6rem;
+  /* margin: 1rem !important; */
+}
+
+/* Footer */
+footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffebbe;
+  color: #656461;
+  margin-top: 5rem;
+}

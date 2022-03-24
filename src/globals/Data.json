@@ -1,0 +1,885 @@
+{
+  "dashboard": [
+    {
+      "multiple": true,
+      "items": [
+        {
+          "title": "CLIENTS",
+          "tabs": false,
+          "total": "35",
+          "path": "/clients",
+          "text": "Clients list",
+          "items": [{ "Delivery Module": 35 }, { "Lockers module": 0 }]
+        },
+        {
+          "title": "INVOICE",
+          "total": "35,780",
+          "tabs": false,
+          "path": "/invoices",
+          "text": "Invoices list",
+          "items": [
+            { "Marché couvert ULYS": "11,392" },
+            { "Démolition usine VUC": "1,391" },
+            { "Extension bâtiment c": "101" },
+            { "Réalisation châtelet": "101" },
+            { "Démolition usine VIC": "0" },
+            { "Extension bâtiment carc": "0" },
+            { "Réalisation Bâtiment C": "0" },
+            { "Extension usine Réglais": "0" }
+          ]
+        }
+      ],
+      "cols": 4
+    },
+    {
+      "title": "DELIVERIES",
+      "total": "235",
+      "tabs": true,
+      "items": [
+        {
+          "title": "site",
+          "items": [
+            { "Marché couvert ULYSSES": 190 },
+            { "Démolition usine VUC": 149 },
+            { "Extension bâtiment carc": 120 },
+            { "Réalisation châtelet ": 110 },
+            { "Démolition usine VIC": 10 },
+            { "Marché couvert REGAL": 10 },
+            { "Démolition usine VIX": 10 },
+            { "Extension bâtiment carc": 10 },
+            { "Réalisation Bâtiment C": 10 },
+            { "Extension usine Réglais": 10 },
+            { "Marché couvert REGAL": 10 },
+            { "Démolition usine VIX": 10 },
+            { "Extension bâtiment carc": 10 },
+            { "Réalisation Bâtiment C": 10 },
+            { "Extension usine Réglais": 10 }
+          ]
+        },
+        {
+          "title": "client",
+          "items": [
+            { "Marché couvert ULYSSES": 90 },
+            { "Démolition usine VUC": 49 },
+            { "Extension bâtiment carc": 20 },
+            { "Réalisation châtelet ": 10 },
+            { "Démolition usine VIC": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 }
+          ]
+        }
+      ],
+      "cols": 4
+    },
+    {
+      "title": "INCIDENTS",
+      "total": 203,
+      "tabs": true,
+      "items": [
+        {
+          "title": "site",
+          "items": [
+            { "Marché couvert ULYSSES": 190 },
+            { "Démolition usine VUC": 149 },
+            { "Extension bâtiment carc": 120 },
+            { "Réalisation châtelet ": 110 },
+            { "Démolition usine VIC": 10 },
+            { "Marché couvert REGAL": 10 },
+            { "Démolition usine VIX": 10 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 }
+          ]
+        },
+        {
+          "title": "client",
+          "items": [
+            { "Marché couvert ULYSSES": 90 },
+            { "Démolition usine VUC": 49 },
+            { "Extension bâtiment carc": 20 },
+            { "Réalisation châtelet ": 10 },
+            { "Démolition usine VIC": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 }
+          ]
+        }
+      ],
+      "cols": 4
+    },
+    {
+      "title": "MEANS",
+      "total": 104,
+      "tabs": true,
+      "items": [
+        {
+          "title": "site",
+          "items": [
+            { "Marché couvert ULYSSES": 90 },
+            { "Démolition usine VUC": 49 },
+            { "Extension bâtiment carc": 20 },
+            { "Réalisation châtelet ": 10 },
+            { "Démolition usine VIC": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 }
+          ]
+        },
+        {
+          "title": "client",
+          "items": [
+            { "Marché couvert ULYSSES": 90 },
+            { "Démolition usine VUC": 49 },
+            { "Extension bâtiment carc": 20 },
+            { "Réalisation châtelet ": 10 },
+            { "Démolition usine VIC": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 },
+            { "Marché couvert REGAL": 0 },
+            { "Démolition usine VIX": 0 },
+            { "Extension bâtiment carc": 0 },
+            { "Réalisation Bâtiment C": 0 },
+            { "Extension usine Réglais": 0 }
+          ]
+        }
+      ],
+      "cols": 4
+    },
+    {
+      "title": "END OF SUBSCRIPTION",
+      "total": null,
+      "tabs": true,
+      "items": [
+        {
+          "title": "site",
+          "items": [
+            { "Marché couvert ULYSSES": 2 },
+            { "Démolition usine VUC": 4 },
+            { "Extension bâtiment carc": 8 },
+            { "Réalisation châtelet ": 20 },
+            { "Démolition usine VIC": 32 },
+            { "Marché couvert REGAL": 60 }
+          ]
+        },
+        {
+          "title": "client",
+          "items": [
+            { "Marché couvert ULYSSES": 2 },
+            { "Démolition usine VUC": 4 },
+            { "Extension bâtiment carc": 8 },
+            { "Réalisation châtelet ": 20 },
+            { "Démolition usine VIC": 32 },
+            { "Marché couvert REGAL": 60 }
+          ]
+        }
+      ],
+      "cols": 4
+    },
+    {
+      "title": "TARIFICATION CLIENTS",
+      "total": null,
+      "tabs": true,
+      "items": [
+        {
+          "title": "site",
+          "items": [{ "VINCI": 24 }, { "BOUYGUES": 34 }, { "EIFFAGE": 20 }]
+        },
+        {
+          "title": "client",
+          "items": [{ "VINCI": 24 }, { "BOUYGUES": 34 }, { "EIFFAGE": 20 }]
+        }
+      ],
+      "cols": 4
+    }
+  ],
+  "clients": {
+    "headings": [
+      "Client",
+      "Responsible",
+      "Phone",
+      "Sites",
+      "Start date",
+      "End date",
+      "Subscription",
+      "Action"
+    ],
+    "items": [
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Per site"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        "-",
+        "-",
+        "-",
+        "Requested"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Master"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Master"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Per site"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Per site"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Master"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "0666446644",
+        2,
+        "12/03/21",
+        "12/12/22",
+        "Master"
+      ]
+    ]
+  },
+  "invoices": {
+    "headings": [
+      "Client",
+      "Start date",
+      "End date",
+      "Site",
+      "Amount",
+      "Description",
+      "Action"
+    ],
+    "items": [
+      [
+        "ContructBTP",
+        "12/03/21",
+        "12/12/22",
+        "Chantier 1",
+        123,
+        "Description 1"
+      ],
+      ["ContructBTP", "-", "-", "Chantier 1", 113, "Description 1"],
+      [
+        "ContructBTP",
+        "12/03/21",
+        "12/12/22",
+        "Chantier 1",
+        22.43,
+        "Description 1"
+      ],
+      ["ContructBTP", "12/03/21", "12/12/22", "Chantier 1", 3, "Description 1"],
+      ["ContructBTP", "12/03/21", "12/12/22", "Chantier 1", 3, "Description 1"],
+      ["ContructBTP", "12/03/21", "12/12/22", "Chantier 1", 3, "Description 1"],
+      ["ContructBTP", "12/03/21", "12/12/22", "Chantier 1", 3, "Description 1"],
+      ["ContructBTP", "12/03/21", "12/12/22", "Chantier 1", 3, "Description 1"]
+    ]
+  },
+  "sites": {
+    "headings": ["Image", "Site name", "ZAC name", "Admin", "Status", "Action"],
+    "items": [
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "ZAC de la VAR",
+        "Thierry Marles ConstructBTP",
+        "Active"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "ZAC de la VAR",
+        "Thierry Marles ConstructBTP",
+        "Active"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active"
+      ]
+    ]
+  },
+  "zacs": {
+    "headings": ["ZAC name", "Sites", "Action"],
+    "items": [
+      ["ZAC 1", 3],
+      ["ZAC 1", 3],
+      ["ZAC 1", 3],
+      ["ZAC 1", 3],
+      ["ZAC 1", 3],
+      ["ZAC 1", 3]
+    ]
+  },
+  "archivedSites": {
+    "headings": [
+      "Image",
+      "Site name",
+      "ZAC name",
+      "Responsible",
+      "Status",
+      "Action"
+    ],
+    "items": [
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Inactive"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "ZAC de la VAR",
+        "Thierry Marles ConstructBTP",
+        "Inactive"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "ZAC de la VAR",
+        "Thierry Marles ConstructBTP",
+        "Inactive"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Inactive"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Inactive"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Inactive"
+      ]
+    ]
+  },
+  "buildings": {
+    "headingsExterior": ["Name of building", "Plan", "Action"],
+    "headings": ["Name of building", "Levels", "Action"],
+    "items": [
+      ["Bâtiment 1", "4"],
+      ["Bâtiment 2", "2"],
+      ["Bâtiment 3", "3"],
+      ["Bâtiment 4", "2"],
+      ["Bâtiment 5", "2"],
+      ["Bâtiment 6", "1"]
+    ]
+  },
+  "levels": {
+    "headings": ["Level", "Plan", "Action"],
+    "items": [
+      ["RDC", "Plan 1.pdf"],
+      ["2", "Plan 2.pdf"],
+      ["3", "Plan 3.pdf"],
+      ["4", "Plan 4.pdf"]
+    ]
+  },
+  "pdfHistory": {
+    "headings": ["Name of the PDF", "Date of deletion ", "Download"],
+    "items": [
+      ["RDC", "Plan 1.pdf"],
+      ["2", "Plan 2.pdf"],
+      ["3", "Plan 3.pdf"],
+      ["4", "Plan 4.pdf"]
+    ]
+  },
+  "admins": {
+    "headings": ["Company", "Name", "Phone", "Sites", "Action"],
+    "items": [
+      ["ContructBTP", "Thierry Marles", "0666446644", 2],
+      ["ContructBTP", "Thierry Marles", "0666446644", "-"],
+      ["ContructBTP", "Thierry Marles", "0666446644", 2],
+      ["ContructBTP", "Thierry Marles", "0666446644", 2],
+      ["ContructBTP", "Thierry Marles", "0666446644", 2],
+      ["ContructBTP", "Thierry Marles", "0666446644", 2],
+      ["ContructBTP", "Thierry Marles", "0666446644", 2],
+      ["ContructBTP", "Thierry Marles", "0666446644", 2]
+    ]
+  },
+  "meansOfHistoric": {
+    "headings": [
+      "Start of booking",
+      "End of booking",
+      "Company",
+      "Reason of booking"
+    ],
+    "items": [
+      [
+        "13/04/21 to 13h00",
+        "17/04/21 to 17h00",
+        "ConstructBTP",
+        "Pour la livarsion des euipments HVAC"
+      ],
+      [
+        "13/04/21 to 13h00",
+        "17/04/21 to 17h00",
+        "ConstructBTP",
+        "Pour la livarsion des euipments HVAC"
+      ],
+      [
+        "13/04/21 to 13h00",
+        "17/04/21 to 17h00",
+        "ConstructBTP",
+        "Pour la livarsion des euipments HVAC"
+      ],
+      [
+        "13/04/21 to 13h00",
+        "17/04/21 to 17h00",
+        "ConstructBTP",
+        "Pour la livarsion des euipments HVAC"
+      ],
+      [
+        "13/04/21 to 13h00",
+        "17/04/21 to 17h00",
+        "ConstructBTP",
+        "Pour la livarsion des euipments HVAC"
+      ],
+      [
+        "13/04/21 to 13h00",
+        "17/04/21 to 17h00",
+        "ConstructBTP",
+        "Pour la livarsion des euipments HVAC"
+      ]
+    ]
+  },
+  "means": {
+    "headings": ["Name", "Status", "Type", "Area", "Zone", "Action"],
+    "items": [
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active",
+        "Zone 1"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "ZAC de la VAR",
+        "Thierry Marles ConstructBTP",
+        "Active",
+        "Zone 2"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "ZAC de la VAR",
+        "Thierry Marles ConstructBTP",
+        "Active",
+        "Zone 3"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active",
+        "Zone 4"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active",
+        "Zone 5"
+      ],
+      [
+        "Marché couvert des ULYSSES",
+        "N/A",
+        "Thierry Marles ConstructBTP",
+        "Active",
+        "Zone 6"
+      ]
+    ]
+  },
+  "incidents": {
+    "headings": [
+      "Date",
+      "Type",
+      "Designation",
+      "Company",
+      "Status",
+      "Location",
+      "Billable ?",
+      "Amount",
+      "Paid ?"
+    ],
+    "items": [
+      [
+        "12/03/2021",
+        "Retard",
+        "Truck Incidents",
+        "Enterprise 1",
+        "Ouvert",
+        "Paris",
+        "Yes",
+        "23$",
+        "Yes"
+      ],
+      [
+        "12/03/2021",
+        "Retard",
+        "Truck Incidents",
+        "Enterprise 1",
+        "Ouvert",
+        "Paris",
+        "Yes",
+        "23$",
+        "Yes"
+      ],
+      [
+        "12/03/2021",
+        "Retard",
+        "Truck Incidents",
+        "Enterprise 1",
+        "Ouvert",
+        "Paris",
+        "Yes",
+        "23$",
+        "Yes"
+      ],
+      [
+        "12/03/2021",
+        "Retard",
+        "Truck Incidents",
+        "Enterprise 1",
+        "Ouvert",
+        "Paris",
+        "Yes",
+        "23$",
+        "Yes"
+      ],
+      [
+        "12/03/2021",
+        "Retard",
+        "Truck Incidents",
+        "Enterprise 1",
+        "Ouvert",
+        "Paris",
+        "Yes",
+        "23$",
+        "Yes"
+      ]
+    ]
+  },
+  "companies": {
+    "headings": [
+      "",
+      "Company",
+      "Subcontractor",
+      "Responsible",
+      "Telephone",
+      "Email",
+      "Action"
+    ],
+    "items": [
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"],
+      ["ContructBTP", "Thierry Marles", "y", "0666446644", "name@email.com"]
+    ]
+  },
+  "userList": {
+    "headings": ["Name", "Company", "Role", "Status", "Email", "Action"],
+    "items": [
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "inscrit",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "En attente",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "inscrit",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "inscrit",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "inscrit",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "inscrit",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "En attente",
+        "Enterpriese",
+        "name@email.com"
+      ],
+      [
+        "Thierry Marles",
+        "Enterprise 1",
+        "inscrit",
+        "Enterpriese",
+        "name@email.com"
+      ]
+    ]
+  },
+  "oranigramme": {
+    "headings": [
+      "",
+      "First Name",
+      "Last Name",
+      "Company",
+      "Position",
+      "Telephone",
+      "Addresse e-mail"
+    ],
+    "items": [
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ],
+      [
+        "ContructBTP",
+        "Thierry Marles",
+        "org",
+        "MEMBER",
+        "0666446644",
+        "name@email.com"
+      ]
+    ]
+  },
+    "accessToStorageArea": {
+    "headings": [
+      "Company",
+      "Reqested Date",
+      "Storage Area",
+      "Action"
+    ],
+    "items": [
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "],
+      ["ContructBTP", "Thierry Marles", "y", " "]
+    ]
+  }
+}
